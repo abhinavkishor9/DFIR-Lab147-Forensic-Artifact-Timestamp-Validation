@@ -1,0 +1,2 @@
+# DFIR-Lab147-Forensic-Artifact-Timestamp-Validation
+Hands-on DFIR lab validating Windows filesystem timestamps, comparing CreationTime, LastWriteTime, and LastAccessTime, investigating timestamp parsing errors, preserving SHA256 integrity, reconstructing a chronological timeline from filesystem and Windows/Sysmon records, and documenting telemetry limitations encountered during Wazuh correlation.
